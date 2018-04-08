@@ -6,17 +6,20 @@ h2 {
     color: azure;
 }
 
-#carouselIndicators .carouselSlide .carousel .carousel-inner{
-    width: 100%;
-    margin: auto;
-}
-
 .card {
     width: 400px;
 }
 
-.d-block .w-100 {
-    width: 100%;
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-footer {
+    text-align: center;
 }
 
 .card-img-top {
