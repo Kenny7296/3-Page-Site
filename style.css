@@ -1,0 +1,24 @@
+body {
+    background-color: grey;
+}
+
+h2 {
+    color: azure;
+}
+
+#carouselIndicators .carouselSlide .carousel .carousel-inner{
+    width: 100%;
+    margin: auto;
+}
+
+.card {
+    width: 400px;
+}
+
+.d-block .w-100 {
+    width: 100%;
+}
+
+.card-img-top {
+    width: 100%;
+}
